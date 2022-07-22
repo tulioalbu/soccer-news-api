@@ -1,10 +1,10 @@
 [
   {
     "id": 1,
-    "title": "Você sabia?",
-    "description": "Mulheres colecionam conquistas históricas no futebol; veja oito delas neste 8 de março.",
-    "image": "https://digitalinnovationone.github.io/soccer-news-api/images/1.jpg",
-    "link": "https://ge.globo.com/pe/futebol/noticia/2022/03/08/voce-sabia-mulheres-colecionam-conquistas-historicas-no-futebol-veja-oito-delas-neste-8-de-marco.ghtml"
+    "title": "Já classificado, Brasil goleia Peru e mantém campanha perfeita",
+    "description": "Copa América: Seleção termina a primeira fase com 17 gols marcados e nenhum sofrido; Paraguai é o rival na semifinal.",
+    "image": "https://github.com/tulioalbu/soccer-news-api/blob/main/Images/Captura%20de%20Tela%202022-07-22%20%C3%A0s%2001.37.04.png,
+    "link": "https://ge.globo.com/futebol/futebol-feminino/copa-america-feminina/jogo/21-07-2022/brasil-peru.ghtml"
   },
   {
     "id": 2,
