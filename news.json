@@ -8,23 +8,37 @@
   },
   {
     "id": 2,
-    "title": "Por que vou parar de sonhar?",
-    "description": "Em carta ao filho, Cristiane recorda infância dura e ambições: Por que vou parar de sonhar?",
-    "image": "https://digitalinnovationone.github.io/soccer-news-api/images/2.jpg",
-    "link": "https://ge.globo.com/pe/futebol/noticia/2022/03/02/em-carta-ao-filho-cristiane-recorda-infancia-dura-e-ambicoes-por-que-vou-parar-de-sonhar.ghtml"
+    "title": "Sem a camisa 10: Pia distribui liderança na Seleção com ausência da capitã Marta na Copa América",
+    "description": "Jogadora sofreu lesão no joelho em março e segue em recuperação. Tainara lamenta, mas ressalta: 'Quando se trata de seleção a responsabilidade é igual para todas'",
+    "image": "https://tulioalbu.github.io/soccer-news-api/Images/2.png",
+    "link": "https://ge.globo.com/futebol/selecao-brasileira/noticia/2022/07/03/sem-a-camisa-10-pia-distribui-lideranca-na-selecao-com-ausencia-da-capita-marta-na-copa-america.ghtml"
   },
   {
     "id": 3,
-    "title": "Dupla de respeito",
-    "description": "Com show da dupla Jhonson e Aline, Brasil estreia com vitória no Sul-Americano Feminino Sub-17.",
-    "image": "https://digitalinnovationone.github.io/soccer-news-api/images/3.jpg",
-    "link": "https://ge.globo.com/futebol/selecao-brasileira/noticia/2022/03/02/com-show-da-dupla-jhonson-e-aline-brasil-estreia-com-vitoria-no-sul-americano-feminino-sub-17.ghtml"
+    "title": "O pioneirismo de Aline Pellegrino, vitoriosa capitã que abre caminhos na gestão da CBF",
+    "description": "Aline Pellegrino, ex-jogadora da Seleção Brasileira, hoje ocupa cargo de gestão na entidade",
+    "image": "https://tulioalbu.github.io/soccer-news-api/Images/3.png",
+    "link": "https://www.90min.com/pt-BR/posts/o-pioneirismo-de-aline-pellegrino-vitoriosa-capita-que-abre-caminhos-na-gestao-da-cbf"
   },
   {
     "id": 4,
-    "title": "Estreia marcada",
-    "description": "São Paulo divulga numeração do time feminino e tem nova camisa 10; veja lista.",
-    "image": "https://digitalinnovationone.github.io/soccer-news-api/images/4.jpg",
-    "link": "https://ge.globo.com/futebol/times/sao-paulo/noticia/2022/03/04/noticias-spfc-sao-paulo-numeracao-time-feminino-camisa-10-lista.ghtml"
+    "title": "Formiga se torna a primeira mulher a ser eternizada na Calçada da Fama do Mineirão",
+    "description": "Em cerimônia realizada nos gramados do Mineirão, Formiga fez história mais uma vez",
+    "image": "https://tulioalbu.github.io/soccer-news-api/Images/4.png",
+    "link": "https://www.90min.com/pt-BR/posts/formiga-se-torna-a-primeira-mulher-a-ser-eternizada-na-calcada-da-fama-do-mineirao"
+  },
+  {
+    "id": 5,
+    "title": "Inter busca se firmar como referência na base do futebol feminino",
+    "description": "São aproximadamente 100 atletas divididas nas categorias sub-15, sub-17, sub-20 e profissional",
+    "image": "https://tulioalbu.github.io/soccer-news-api/Images/5.png",
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/07/18/como-o-inter-busca-se-firmar-como-referencia-na-base-do-futebol-feminino.htm"
+  },
+  {
+    "id": 6,
+    "title": "Barcelona Feminino anuncia contratação de Geyse, atacante da Seleção Brasileira",
+    "description": "Geyse reforça o Barcelona por duas temporadas",
+    "image": "https://tulioalbu.github.io/soccer-news-api/Images/6.png",
+    "link": "https://www.90min.com/pt-BR/posts/barcelona-feminino-anuncia-contratacao-de-geyse-atacante-da-selecao-brasileira"
   }
 ]
